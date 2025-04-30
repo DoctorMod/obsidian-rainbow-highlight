@@ -1,7 +1,7 @@
 # Highlightr-Plugin
 
 ![Rainbow Highlight Downloads](https://img.shields.io/github/downloads/DoctorMod/obsidian-rainbow-highlight/total.svg)
-![Rainbow Highlight Releases](https://img.shields.io/github/v/release/DoctorMod/obsidian-rainbow-highlight)
+![Rainbow Highlight Releases](https://img.shields.io/github/v/release/DoctorMod/obsidian-rainbow-highlight?include_prereleases)
 
 I really like highlighting my notes when I use obsidian, but a lot of the plugins out there that do this sort of thing, are a bit clunky and don't have the ease of use that i feel i want, where i can just use a keybind and it will go up in rainbow order. Specific I know, but that's how i like it!
 

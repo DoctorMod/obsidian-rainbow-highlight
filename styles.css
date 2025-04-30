@@ -1,0 +1,24 @@
+/* Highlight EDITOR */
+
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+    background-color: transparent;
+    margin: 0 -0.05em;
+    padding: 0.1em 0.4em;
+    border-radius: 0.8em 0.3em;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+    text-shadow: 0 0 0.75em var(--background-primary-alt);
+}
+
+
+/* Highlight PREVIEW */
+
+.markdown-preview-view mark {
+    background-color: transparent;
+    margin: 0 -0.05em;
+    padding: 0.1em 0.4em;
+    border-radius: 0.8em 0.3em;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+    text-shadow: 0 0 0.75em var(--background-primary-alt);
+}

@@ -1,6 +1,6 @@
 /* Highlight EDITOR */
 
-.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight, .cm-s-obsidian span.cm-highlight span {
     background-color: transparent;
     margin: 0 -0.05em;
     padding: 0.1em 0.4em;

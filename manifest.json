@@ -1,10 +1,10 @@
 {
   "id": "highlight-rainbow",
   "name": "Highlight Rainbow",
-  "version": "0.1.0",
+  "version": "0.5.1",
   "minAppVersion": "0.9.7",
   "description": "Makes the highlight Markdown display in rainbow colors in order.",
-  "author": "Doctor_MOd",
+  "author": "Doctor_Mod",
   "authorUrl": "https://doctormod.github.io",
   "isDesktopOnly": false
 }
